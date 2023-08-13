@@ -1,16 +1,16 @@
-![]()
+![](mockup.png)
 
 # Projet Developpeur - WordPress - OpenClassrooms
 </br>
 
-### Simplvintage <br>
-<a href="https://raquel-salamone.fr//" target="_blank" alt=Booki style="margin-top: 10px;"> The Arbox</a>
+### The Arbox <br>
+<a href="https://raquel-salamone.fr/theartbox/" target="_blank" alt=The Artbox style="margin-top: 10px;"> The Arbox</a>
 </br>
 
 
 ### Projet 3 -The Artbox <br>
-Simpl Vintage, une marque de vêtements d’occasion, a besoin d’un site simple pour promouvoir l’ouverture de son showroom dans quelques semaines.  
+Ce projet a pour but de vous faire découvrir le langage PHP, très populaire parmi les développeurs web  
 
 ### Obectif :<br>
-Vous êtes chargé  de céer un site web en utilisant WordPress et Elementor comme page builder. 
+Mission de refonte d’un site HTML en PHP
 <br>
